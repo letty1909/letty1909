@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Colette
 - 👀 I’m interested in Web Design and all things creative
-- 🌱 I’m currently learning html, css, JavaScript, php, SQL
+- 🌱 I have just graduated from Edinburgh College with an HND in Web Development
 - 💞️ I’m looking to collaborate on anything creative or web orintated!
 - 📫 How to reach me ping me a message
 
